@@ -1,5 +1,7 @@
 # Rental Property Analysis with GUi
 
+![](images/gui.PNG)
+
 ## Abstract
 Given rental listings on craiglist.com, I simply would to give the operator the abillity to look at the average and medium prices of those properties listed. I allowed the user to check which attributes apply to there property for a more acurate price range.
 * Calculate the price per squarfoot.
