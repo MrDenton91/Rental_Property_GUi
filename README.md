@@ -5,7 +5,8 @@ Given rental listings on craiglist.com, I simply would to give the operator the 
 * Calculate the price per squarfoot.
 
 ## Results
-So long as the user has a stable intnet connection and chooses a reasonable range around thier zipcode(5 miles - 20 miles), results will be ready in about 5 minutes. 
+So long as the user has a stable intnet connection and chooses a reasonable range around thier zipcode(5 miles - 20 miles), results will be ready in about 5 minutes.
+* Current program can yield results from anywhere in the United States 
 
 ### Improvements
 * I'm not a front end developer as such this the UI can be vastly improved.
