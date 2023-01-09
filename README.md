@@ -13,4 +13,3 @@ So long as the user has a stable intnet connection and chooses a reasonable rang
 
 ### Improvements
 * I'm not a front end developer as such this the UI can be vastly improved.
-* Create a file that stores pasts search results on the users local machine.
