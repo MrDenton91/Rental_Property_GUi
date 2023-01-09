@@ -1,4 +1,4 @@
-# Rental Property Analysis with GUi
+# Rental Property Analysis with Basic GUI
 
 ![](images/gui.PNG)
 
